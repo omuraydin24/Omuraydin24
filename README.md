@@ -1,10 +1,9 @@
 ### Hi there, I'm Ömür 👋
 
 
-- ⚡ I’m interested in coding, listening and .
 - 🌱 I’m currently learning React
 - 👀 I'm looking for a Front-end position.
-
+- ⚡ I love to play drums and swim.
 
 
 ---
