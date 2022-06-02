@@ -1,8 +1,7 @@
 ### Hi there, I'm Ömür 👋
 
 
-- 🌱 I’m currently learning React
-- 👀 I'm looking for a Front-end position.
+- 🌱 I’m a React Native Developer
 - ⚡ I love to play drums and swim.
 
 
