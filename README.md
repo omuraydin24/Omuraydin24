@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working as **react native developer**
 
-- 📫 How to reach me **ommuraydin@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pL_thAGRSVt0i1Od2qWMirqA9TX38Drt/view?usp=sharing](https://drive.google.com/file/d/1pL_thAGRSVt0i1Od2qWMirqA9TX38Drt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
